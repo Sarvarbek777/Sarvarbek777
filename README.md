@@ -1,100 +1,203 @@
 <div align="center">
 
-# 🌟 Hey there, I'm Sarvarbek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# 🐍 Salom, men Sarvarbek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Engineer;AI+%26+ML+Enthusiast;Data+Science+Lover;Clean+Code+Advocate!" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Sarvarbek777&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sarvarbek777&label=Profile%20views&color=yellow&style=flat" alt="profile views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Men haqimda
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Python Coding" width="400" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
 
-```javascript
-const sarvarbek = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "algorithms"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Bootstrap", "Tailwind", "Material UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Django", "Flask", "FastAPI"],
-            misc: ["Bash", "PostgreSQL", "MongoDB"]
-        },
-        devOps: ["AWS", "Docker", "Route53", "Nginx"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-        misc: ["Firebase", "Socket.IO", "Selenium", "Open-CV"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
+```python
+class PythonDeveloper:
+    def __init__(self):
+        self.name = "Sarvarbek"
+        self.role = "Python Backend Developer"
+        self.language_spoken = ["uz", "ru", "en"]
+        
+    def say_hi(self):
+        print("Pythonchi sifatida sizlar bilan tanishganimdan xursandman!")
+        
+    def get_current_workspace(self):
+        workspace = {
+            "os": "Ubuntu/Windows",
+            "editor": "PyCharm, VS Code",
+            "terminal": "Zsh with Oh-My-Zsh",
+            "python_version": "3.11+",
+            "focus": "Building scalable web applications"
+        }
+        return workspace
+        
+    def get_skills(self):
+        return {
+            "languages": ["Python", "JavaScript", "SQL"],
+            "frameworks": {
+                "backend": ["Django", "FastAPI", "Flask", "DRF"],
+                "frontend": ["React", "Vue.js"],
+                "testing": ["Pytest", "Unittest", "Selenium"]
+            },
+            "databases": ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
+            "tools": ["Docker", "Git", "Celery", "RabbitMQ"],
+            "cloud": ["AWS", "Heroku", "DigitalOcean"],
+            "ai_ml": ["TensorFlow", "Scikit-learn", "Pandas", "NumPy"]
+        }
+
+me = PythonDeveloper()
+me.say_hi()
 ```
 
 <br clear="both">
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🐍 Python Texnologiyalar
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Asosiy Tillar
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🏗️ Python Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-### ⚡ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Ma'lumotlar Bazasi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🤖 AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🛠️ Asboblar & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧪 Testing
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistikalar
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarvarbek777&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Sarvarbek's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvarbek777&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarvarbek777&show_icons=true&count_private=true&hide_border=true&title_color=FFD43B&icon_color=FFD43B&text_color=c9d1d9&bg_color=0d1117" alt="Sarvarbek's GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvarbek777&layout=compact&hide_border=true&title_color=FFD43B&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvarbek777&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvarbek777&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🐍 Python Loyihalarim
+
+<div align="center">
+
+### 🔥 Asosiy Loyihalar
+
+| Loyiha | Texnologiyalar | Tavsif |
+|--------|---------------|---------|
+| **E-commerce API** | Django + DRF + PostgreSQL | Onlayn do'kon uchun RESTful API |
+| **ML Price Predictor** | FastAPI + TensorFlow + NumPy | Narxlarni bashorat qilish tizimi |
+| **Task Manager Bot** | Telegram Bot API + SQLite | Vazifalarni boshqarish bot |
+| **Web Scraper** | Scrapy + BeautifulSoup + Selenium | Ma'lumot yig'ish dasturi |
+
+</div>
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sarvarbek777&repo=django-ecommerce-api&hide_border=true&title_color=FFD43B&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Sarvarbek777/django-ecommerce-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sarvarbek777&repo=fastapi-ml-predictor&hide_border=true&title_color=FFD43B&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Sarvarbek777/fastapi-ml-predictor)
+
+</div>
+
+---
+
+## 📚 O'rganayotgan Texnologiyalar
+
+<div align="center">
+
+```python
+learning_roadmap = {
+    "2024": [
+        "🔥 Advanced Django Patterns",
+        "☁️ AWS & Cloud Architecture", 
+        "🤖 Deep Learning with PyTorch",
+        "🏗️ Microservices Architecture",
+        "📊 Data Engineering with Apache Kafka"
+    ],
+    "next_goals": [
+        "🎯 Contribute to Open Source Python projects",
+        "📝 Write technical blog posts",
+        "🏆 Get AWS Solutions Architect certification",
+        "👨‍🏫 Mentor junior Python developers"
+    ]
+}
+```
+
+</div>
+
+---
+
+## 💡 Python Maslahatlarim
+
+<div align="center">
+
+| 🐍 Python Best Practices |
+|---------------------------|
+| • **PEP 8** ga rioya qiling - kod o'qilishi mumkin bo'lishi kerak |
+| • **Virtual Environment** ishlatishni unutmang |
+| • **Type Hints** qo'ying - kodni tushunarli qiladi |
+| • **Docstring** yozing - dokumentatsiya muhim |
+| • **Testing** qiling - kod sifatini oshiradi |
+| • **Git** dan to'g'ri foydalaning - har bir commit mazmunli bo'lsin |
+
+</div>
+
+---
+
+## 📝 Python Maqolalarim
+
+<!-- BLOG-POST-LIST:START -->
+- 🐍 [Django REST API: Professional Development Guide](https://your-blog.com/django-rest-api)
+- ⚡ [FastAPI vs Django: Performance Comparison](https://your-blog.com/fastapi-vs-django)
+- 🤖 [Building Telegram Bots with Python](https://your-blog.com/telegram-bot-python)
+- 📊 [Data Analysis with Pandas: Complete Guide](https://your-blog.com/pandas-data-analysis)
+- 🔧 [Python Design Patterns Every Developer Should Know](https://your-blog.com/python-design-patterns)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏆 Yutuqlarim
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Advanced%20Level-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 </div>
 
 <div align="center">
@@ -103,78 +206,26 @@ const sarvarbek = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvarbek777&custom_title=Sarvarbek's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sarvarbek777&repo=awesome-project&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Sarvarbek777/awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sarvarbek777&repo=cool-webapp&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Sarvarbek777/cool-webapp)
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-![](https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Google-Cloud%20Professional-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Docker-Certified%20Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable Microservices with Node.js](https://your-blog.com/microservices-nodejs)
-- 🎯 [Advanced React Patterns Every Developer Should Know](https://your-blog.com/react-patterns)
-- ☁️ [Deploying Applications to AWS: A Complete Guide](https://your-blog.com/aws-deployment)
-- 🔐 [Security Best Practices for Web Applications](https://your-blog.com/web-security)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Bog'lanish
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarvarbek-python)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sarvarbek_dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarvarbek.python@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarvarbek777)
 
 </div>
 
 ---
 
-## ☕ Support My Work
+## 💰 Loyihalar uchun
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sarvarbek)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sarvarbek)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Payme](https://img.shields.io/badge/Payme-00CCFF?style=for-the-badge&logo=paypal&logoColor=white)](https://payme.uz/@sarvarbek)
+[![Click](https://img.shields.io/badge/Click-1976D2?style=for-the-badge&logo=visa&logoColor=white)](https://click.uz)
 
 </div>
 
@@ -182,16 +233,21 @@ const sarvarbek = {
 
 <div align="center">
 
-**"Code is like humor. When you have to explain it, it's bad."** 💻✨
+### 🐍 Python Quote
+*"Python is not just a programming language, it's a way of thinking."*
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
+---
+
 <div align="center">
 
-⭐️ **From [Sarvarbek777](https://github.com/Sarvarbek777) with ❤️**
+**"Code is poetry, Python is shakespeare."** 🐍✨
 
-*Thanks for stopping by! Let's build something amazing together! 🚀*
+⭐️ **[Sarvarbek777](https://github.com/Sarvarbek777) tomonidan Python ❤️ bilan yaratilgan**
+
+*Python community ga xush kelibsiz! Keling, birga ajoyib narsalar yarataylik! 🚀*
 
 </div>
