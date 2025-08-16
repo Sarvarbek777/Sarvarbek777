@@ -62,37 +62,26 @@ me.say_hi()
 
 ### 💻 Asosiy Tillar
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🏗️ Python Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🗄️ Ma'lumotlar Bazasi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🤖 AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🛠️ Asboblar & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🧪 Testing
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 </div>
 
@@ -120,7 +109,7 @@ me.say_hi()
 | Loyiha | Texnologiyalar | Tavsif |
 |--------|---------------|---------|
 | **E-commerce API** | Django + DRF + PostgreSQL | Onlayn do'kon uchun RESTful API |
-| **ML Price Predictor** | FastAPI + TensorFlow + NumPy | Narxlarni bashorat qilish tizimi |
+| **ML Price Predictor** | FastAPI
 | **Task Manager Bot** | Telegram Bot API + SQLite | Vazifalarni boshqarish bot |
 | **Web Scraper** | Scrapy + BeautifulSoup + Selenium | Ma'lumot yig'ish dasturi |
 
@@ -142,11 +131,7 @@ me.say_hi()
 ```python
 learning_roadmap = {
     "2024": [
-        "🔥 Advanced Django Patterns",
-        "☁️ AWS & Cloud Architecture", 
-        "🤖 Deep Learning with PyTorch",
-        "🏗️ Microservices Architecture",
-        "📊 Data Engineering with Apache Kafka"
+        "🔥 Advanced Django Patterns"
     ],
     "next_goals": [
         "🎯 Contribute to Open Source Python projects",
@@ -184,8 +169,6 @@ learning_roadmap = {
 - 🐍 [Django REST API: Professional Development Guide](https://your-blog.com/django-rest-api)
 - ⚡ [FastAPI vs Django: Performance Comparison](https://your-blog.com/fastapi-vs-django)
 - 🤖 [Building Telegram Bots with Python](https://your-blog.com/telegram-bot-python)
-- 📊 [Data Analysis with Pandas: Complete Guide](https://your-blog.com/pandas-data-analysis)
-- 🔧 [Python Design Patterns Every Developer Should Know](https://your-blog.com/python-design-patterns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -210,10 +193,8 @@ learning_roadmap = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarvarbek-python)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sarvarbek_dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarvarbek.python@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvarbek-shoqayumov-72901a374/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/httppdp)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarvarbek777)
 
 </div>
