@@ -39,13 +39,10 @@ class PythonDeveloper:
             "languages": ["Python", "JavaScript", "SQL"],
             "frameworks": {
                 "backend": ["Django", "FastAPI", "Flask", "DRF"],
-                "frontend": ["React", "Vue.js"],
-                "testing": ["Pytest", "Unittest", "Selenium"]
+                "testing": ["Pytest"]
             },
-            "databases": ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
-            "tools": ["Docker", "Git", "Celery", "RabbitMQ"],
-            "cloud": ["AWS", "Heroku", "DigitalOcean"],
-            "ai_ml": ["TensorFlow", "Scikit-learn", "Pandas", "NumPy"]
+            "databases": ["PostgreSQL", "Redis", "SQLite"],
+            "tools": ["Docker", "Git", "Celery"],
         }
 
 me = PythonDeveloper()
