@@ -2,7 +2,7 @@
 
 # 🐍 Salom, men Sarvarbek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Engineer;AI+%26+ML+Enthusiast;Data+Science+Lover;Clean+Code+Advocate!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;FastAPI+%26+Django+Expert;AI+%26+OCR+Enthusiast;Linux+Server+Admin;Clean+Code+Advocate!" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Sarvarbek777&label=Profile%20views&color=yellow&style=flat" alt="profile views" />
 
@@ -19,18 +19,19 @@ class PythonDeveloper:
     def __init__(self):
         self.name = "Sarvarbek"
         self.role = "Python Backend Developer"
+        self.experience = "1.5+ years"
         self.language_spoken = ["uz", "ru", "en"]
         
     def say_hi(self):
-        print("Pythonchi sifatida sizlar bilan tanishganimdan xursandman!")
+        print("Backend olamida murakkab muammolarga optimal yechim topishni yoqtiraman!")
         
     def get_current_workspace(self):
         workspace = {
-            "os": "Ubuntu/Windows",
+            "os": "Ubuntu 22.04 LTS",
             "editor": "PyCharm, VS Code",
             "terminal": "Zsh with Oh-My-Zsh",
-            "python_version": "3.11+",
-            "focus": "Building scalable web applications"
+            "tools": ["Docker", "PM2", "Nginx", "Git"],
+            "focus": "Scalable APIs & AI Integration (OCR)"
         }
         return workspace
         
@@ -38,11 +39,11 @@ class PythonDeveloper:
         return {
             "languages": ["Python", "JavaScript", "SQL"],
             "frameworks": {
-                "backend": ["Django", "FastAPI", "Flask", "DRF"],
+                "backend": ["Django", "FastAPI", "DRF", "Flask"],
                 "testing": ["Pytest"]
             },
-            "databases": ["PostgreSQL", "Redis", "SQLite"],
-            "tools": ["Docker", "Git", "Celery"],
+            "databases": ["PostgreSQL", "Redis", "SQLite", "MongoDB"],
+            "special_tech": ["PyTorch", "EasyOCR", "Celery", "JWT"],
         }
 
 me = PythonDeveloper()
@@ -59,23 +60,32 @@ me.say_hi()
 
 ### 💻 Asosiy Tillar
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🏗️ Python Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Ma'lumotlar Bazasi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### 🤖 AI & Special Tech
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ### 🛠️ Asboblar & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
 ### 🧪 Testing
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -105,10 +115,10 @@ me.say_hi()
 
 | Loyiha | Texnologiyalar | Tavsif |
 |--------|---------------|---------|
-| **E-commerce API** | Django + DRF + PostgreSQL | Onlayn do'kon uchun RESTful API |
-| **ML Price Predictor** | FastAPI
-| **Task Manager Bot** | Telegram Bot API + SQLite | Vazifalarni boshqarish bot |
-| **Web Scraper** | Scrapy + BeautifulSoup + Selenium | Ma'lumot yig'ish dasturi |
+| **Alijahon E-commerce** | Django + Redis + DRF | Referral marketing va operator paneli mavjud platforma |
+| **Avto Makon** | FastAPI + JWT + Docker | Yo'l yordami xizmatlari va servis qidirish tizimi |
+| **Prompt Bot (@Promtlar_uzbot)** | Aiogram + PM2 + GitHub | AI promptlarni optimallashtirish va admin paneli |
+| **OCR Rehab AI** | PyTorch + EasyOCR | Tibbiy ma'lumotlarni raqamlashtirish tizimi |
 
 </div>
 
@@ -127,14 +137,14 @@ me.say_hi()
 
 ```python
 learning_roadmap = {
-    "2024": [
-        "🔥 Advanced Django Patterns"
+    "2025-2026": [
+        "🔥 Microservices with Python",
+        "🤖 Deep Learning & Computer Vision (OCR focus)"
     ],
     "next_goals": [
-        "🎯 Contribute to Open Source Python projects",
-        "📝 Write technical blog posts",
-        "🏆 Get AWS Solutions Architect certification",
-        "👨‍🏫 Mentor junior Python developers"
+        "🎯 Build high-performance async systems",
+        "📝 Open Source contribution",
+        "👨‍🏫 Technical blogging"
     ]
 }
 ```
@@ -149,24 +159,14 @@ learning_roadmap = {
 
 | 🐍 Python Best Practices |
 |---------------------------|
-| • **PEP 8** ga rioya qiling - kod o'qilishi mumkin bo'lishi kerak |
+| • **PEP 8** ga rioya qiling — kod o'qilishi mumkin bo'lishi kerak |
 | • **Virtual Environment** ishlatishni unutmang |
-| • **Type Hints** qo'ying - kodni tushunarli qiladi |
-| • **Docstring** yozing - dokumentatsiya muhim |
-| • **Testing** qiling - kod sifatini oshiradi |
-| • **Git** dan to'g'ri foydalaning - har bir commit mazmunli bo'lsin |
+| • **Type Hints** qo'ying — kodni tushunarli qiladi |
+| • **Docstring** yozing — dokumentatsiya muhim |
+| • **Testing** qiling — kod sifatini oshiradi |
+| • **Git** dan to'g'ri foydalaning — har bir commit mazmunli bo'lsin |
 
 </div>
-
----
-
-## 📝 Python Maqolalarim
-
-<!-- BLOG-POST-LIST:START -->
-- 🐍 [Django REST API: Professional Development Guide](https://your-blog.com/django-rest-api)
-- ⚡ [FastAPI vs Django: Performance Comparison](https://your-blog.com/fastapi-vs-django)
-- 🤖 [Building Telegram Bots with Python](https://your-blog.com/telegram-bot-python)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -176,7 +176,7 @@ learning_roadmap = {
 
 ![Python](https://img.shields.io/badge/Python-Advanced%20Level-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Production%20Ready-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -215,17 +215,5 @@ learning_roadmap = {
 *"Python is not just a programming language, it's a way of thinking."*
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
-**"Code is poetry, Python is shakespeare."** 🐍✨
-
-⭐️ **[Sarvarbek777](https://github.com/Sarvarbek777) tomonidan Python ❤️ bilan yaratilgan**
-
-*Python community ga xush kelibsiz! Keling, birga ajoyib narsalar yarataylik! 🚀*
 
 </div>
