@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 Hello, I'm Sarvarbek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# 🐍 Salom, men Sarvarbek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;FastAPI+%26+Django+Expert;AI+%26+OCR+Enthusiast;Linux+Server+Admin;Clean+Code+Advocate!" alt="Typing SVG" />
 
