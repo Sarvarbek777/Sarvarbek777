@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 Salom, men Sarvarbek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# 🐍 Hello, I'm Sarvarbek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;FastAPI+%26+Django+Expert;AI+%26+OCR+Enthusiast;Linux+Server+Admin;Clean+Code+Advocate!" alt="Typing SVG" />
 
@@ -10,10 +10,9 @@
 
 ---
 
-## 🚀 Men haqimda
+## 🚀 About Me
 
 <img align="right" alt="Python Coding" width="400" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
-
 ```python
 class PythonDeveloper:
     def __init__(self):
@@ -23,7 +22,7 @@ class PythonDeveloper:
         self.language_spoken = ["uz", "ru", "en"]
         
     def say_hi(self):
-        print("Backend olamida murakkab muammolarga optimal yechim topishni yoqtiraman!")
+        print("I love finding optimal solutions to complex problems in the backend world!")
         
     def get_current_workspace(self):
         workspace = {
@@ -54,11 +53,11 @@ me.say_hi()
 
 ---
 
-## 🐍 Python Texnologiyalar
+## 🐍 Python Technologies
 
 <div align="center">
 
-### 💻 Asosiy Tillar
+### 💻 Main Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -69,7 +68,7 @@ me.say_hi()
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄️ Ma'lumotlar Bazasi
+### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -80,7 +79,7 @@ me.say_hi()
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-### 🛠️ Asboblar & DevOps
+### 🛠️ Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -94,7 +93,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistikalar
+## 📊 GitHub Statistics
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarvarbek777&show_icons=true&count_private=true&hide_border=true&title_color=FFD43B&icon_color=FFD43B&text_color=c9d1d9&bg_color=0d1117" alt="Sarvarbek's GitHub stats" />
@@ -107,18 +106,18 @@ me.say_hi()
 
 ---
 
-## 🐍 Python Loyihalarim
+## 🐍 My Python Projects
 
 <div align="center">
 
-### 🔥 Asosiy Loyihalar
+### 🔥 Main Projects
 
-| Loyiha | Texnologiyalar | Tavsif |
+| Project | Technologies | Description |
 |--------|---------------|---------|
-| **Alijahon E-commerce** | Django + Redis + DRF | Referral marketing va operator paneli mavjud platforma |
-| **Avto Makon** | FastAPI + JWT + Docker | Yo'l yordami xizmatlari va servis qidirish tizimi |
-| **Prompt Bot (@Promtlar_uzbot)** | Aiogram + PM2 + GitHub | AI promptlarni optimallashtirish va admin paneli |
-| **OCR Rehab AI** | PyTorch + EasyOCR | Tibbiy ma'lumotlarni raqamlashtirish tizimi |
+| **Alijahon E-commerce** | Django + Redis + DRF | Platform with referral marketing and operator panel |
+| **Avto Makon** | FastAPI + JWT + Docker | Roadside assistance services and service search system |
+| **Prompt Bot (@Promtlar_uzbot)** | Aiogram + PM2 + GitHub | AI prompt optimization and admin panel |
+| **OCR Rehab AI** | PyTorch + EasyOCR | Medical data digitization system |
 
 </div>
 
@@ -131,10 +130,9 @@ me.say_hi()
 
 ---
 
-## 📚 O'rganayotgan Texnologiyalar
+## 📚 Technologies I'm Learning
 
 <div align="center">
-
 ```python
 learning_roadmap = {
     "2025-2026": [
@@ -153,24 +151,24 @@ learning_roadmap = {
 
 ---
 
-## 💡 Python Maslahatlarim
+## 💡 My Python Tips
 
 <div align="center">
 
 | 🐍 Python Best Practices |
 |---------------------------|
-| • **PEP 8** ga rioya qiling — kod o'qilishi mumkin bo'lishi kerak |
-| • **Virtual Environment** ishlatishni unutmang |
-| • **Type Hints** qo'ying — kodni tushunarli qiladi |
-| • **Docstring** yozing — dokumentatsiya muhim |
-| • **Testing** qiling — kod sifatini oshiradi |
-| • **Git** dan to'g'ri foydalaning — har bir commit mazmunli bo'lsin |
+| • Follow **PEP 8** — code must be readable |
+| • Don't forget to use **Virtual Environment** |
+| • Add **Type Hints** — makes code understandable |
+| • Write **Docstrings** — documentation matters |
+| • Do **Testing** — improves code quality |
+| • Use **Git** properly — every commit should be meaningful |
 
 </div>
 
 ---
 
-## 🏆 Yutuqlarim
+## 🏆 My Achievements
 
 <div align="center">
 
@@ -186,7 +184,7 @@ learning_roadmap = {
 
 ---
 
-## 🤝 Bog'lanish
+## 🤝 Connect
 
 <div align="center">
 
@@ -198,7 +196,7 @@ learning_roadmap = {
 
 ---
 
-## 💰 Loyihalar uchun
+## 💰 For Projects
 
 <div align="center">
 
