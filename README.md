@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 Salom, men Sarvarbek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# 🐍 Hello, I'm Sarvarbek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Engineer;AI+%26+ML+Enthusiast;Data+Science+Lover;Clean+Code+Advocate!" alt="Typing SVG" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Men haqimda
+## 🚀 About Me
 
 <img align="right" alt="Python Coding" width="400" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
 
@@ -53,11 +53,11 @@ me.say_hi()
 
 ---
 
-## 🐍 Python Texnologiyalar
+## 🐍 Python Technology
 
 <div align="center">
 
-### 💻 Asosiy Tillar
+### 💻 Main Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -66,13 +66,13 @@ me.say_hi()
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-### 🗄️ Ma'lumotlar Bazasi
+### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-### 🛠️ Asboblar & DevOps
+### 🛠️ DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -84,7 +84,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistikalar
+## 📊 GitHub Statistics
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarvarbek777&show_icons=true&count_private=true&hide_border=true&title_color=FFD43B&icon_color=FFD43B&text_color=c9d1d9&bg_color=0d1117" alt="Sarvarbek's GitHub stats" />
@@ -97,18 +97,19 @@ me.say_hi()
 
 ---
 
-## 🐍 Python Loyihalarim
+## 🐍 My Projects
 
 <div align="center">
 
-### 🔥 Asosiy Loyihalar
+### 🔥 Main Projects
 
-| Loyiha | Texnologiyalar | Tavsif |
+| Project | Technology | Comment |
 |--------|---------------|---------|
-| **E-commerce API** | Django + DRF + PostgreSQL | Onlayn do'kon uchun RESTful API |
-| **ML Price Predictor** | FastAPI
-| **Task Manager Bot** | Telegram Bot API + SQLite | Vazifalarni boshqarish bot |
-| **Web Scraper** | Scrapy + BeautifulSoup + Selenium | Ma'lumot yig'ish dasturi |
+| **E-commerce API** | Django + DRF + PostgreSQL | A high-performance RESTful API for an online store featuring a referral system. |
+| **Ato Makon** | FastAPI | A comprehensive roadside assistance platform and service locator designed to connect drivers with nearby service centers in real-time. |
+| **Prompt bot** | Aiogram | An AI-driven task and prompt management assistant.
+| **Task Manager Bot** | Telegram Bot API + SQLite | Task Management Bot |
+| **Web Scraper** | Scrapy + BeautifulSoup + Selenium | Data Collection Tool |
 
 </div>
 
@@ -121,7 +122,7 @@ me.say_hi()
 
 ---
 
-## 📚 O'rganayotgan Texnologiyalar
+## 📚 Current Learning Stack
 
 <div align="center">
 
@@ -143,34 +144,24 @@ learning_roadmap = {
 
 ---
 
-## 💡 Python Maslahatlarim
+## 💡 My Python Insights
 
 <div align="center">
 
 | 🐍 Python Best Practices |
 |---------------------------|
-| • **PEP 8** ga rioya qiling - kod o'qilishi mumkin bo'lishi kerak |
-| • **Virtual Environment** ishlatishni unutmang |
-| • **Type Hints** qo'ying - kodni tushunarli qiladi |
-| • **Docstring** yozing - dokumentatsiya muhim |
-| • **Testing** qiling - kod sifatini oshiradi |
-| • **Git** dan to'g'ri foydalaning - har bir commit mazmunli bo'lsin |
+| • **PEP 8** - Adhere to style guidelines to ensure your code is clean and readable. |
+| • **Virtual Environment** - Always isolate project dependencies using venv or poetry. |
+| • **Type Hints** - Use type hints to make the code self-documenting and easier to debug. |
+| • **Docstring** - Always include documentation for modules, classes, and functions. |
+| • **Testing** Use pytest or unittest to ensure high code quality and reliability.|
+| • **Git** Write clear, descriptive commit messages to track history effectively.|
 
 </div>
 
 ---
 
-## 📝 Python Maqolalarim
-
-<!-- BLOG-POST-LIST:START -->
-- 🐍 [Django REST API: Professional Development Guide](https://your-blog.com/django-rest-api)
-- ⚡ [FastAPI vs Django: Performance Comparison](https://your-blog.com/fastapi-vs-django)
-- 🤖 [Building Telegram Bots with Python](https://your-blog.com/telegram-bot-python)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🏆 Yutuqlarim
+## 🏆 Achievements
 
 <div align="center">
 
@@ -186,7 +177,7 @@ learning_roadmap = {
 
 ---
 
-## 🤝 Bog'lanish
+## 🤝 Connect with Me
 
 <div align="center">
 
@@ -198,7 +189,7 @@ learning_roadmap = {
 
 ---
 
-## 💰 Loyihalar uchun
+## 💰 Projects
 
 <div align="center">
 
@@ -224,8 +215,8 @@ learning_roadmap = {
 
 **"Code is poetry, Python is shakespeare."** 🐍✨
 
-⭐️ **[Sarvarbek777](https://github.com/Sarvarbek777) tomonidan Python ❤️ bilan yaratilgan**
-
-*Python community ga xush kelibsiz! Keling, birga ajoyib narsalar yarataylik! 🚀*
+<p align="center">
+  ⭐️ Created with ❤️ by <a href="https://github.com/Sarvarbek777">Sarvarbek777</a> using Python
+</p>
 
 </div>
