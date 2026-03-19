@@ -2,7 +2,7 @@
 
 # 🐍 Salom, men Sarvarbek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;FastAPI+%26+Django+Expert;AI+%26+OCR+Enthusiast;Linux+Server+Admin;Clean+Code+Advocate!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Engineer;AI+%26+ML+Enthusiast;Data+Science+Lover;Clean+Code+Advocate!" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Sarvarbek777&label=Profile%20views&color=yellow&style=flat" alt="profile views" />
 
@@ -10,27 +10,27 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Men haqimda
 
 <img align="right" alt="Python Coding" width="400" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
+
 ```python
 class PythonDeveloper:
     def __init__(self):
         self.name = "Sarvarbek"
         self.role = "Python Backend Developer"
-        self.experience = "1.5+ years"
         self.language_spoken = ["uz", "ru", "en"]
         
     def say_hi(self):
-        print("I love finding optimal solutions to complex problems in the backend world!")
+        print("Pythonchi sifatida sizlar bilan tanishganimdan xursandman!")
         
     def get_current_workspace(self):
         workspace = {
-            "os": "Ubuntu 22.04 LTS",
+            "os": "Ubuntu/Windows",
             "editor": "PyCharm, VS Code",
             "terminal": "Zsh with Oh-My-Zsh",
-            "tools": ["Docker", "PM2", "Nginx", "Git"],
-            "focus": "Scalable APIs & AI Integration (OCR)"
+            "python_version": "3.11+",
+            "focus": "Building scalable web applications"
         }
         return workspace
         
@@ -38,11 +38,11 @@ class PythonDeveloper:
         return {
             "languages": ["Python", "JavaScript", "SQL"],
             "frameworks": {
-                "backend": ["Django", "FastAPI", "DRF", "Flask"],
+                "backend": ["Django", "FastAPI", "Flask", "DRF"],
                 "testing": ["Pytest"]
             },
-            "databases": ["PostgreSQL", "Redis", "SQLite", "MongoDB"],
-            "special_tech": ["PyTorch", "EasyOCR", "Celery", "JWT"],
+            "databases": ["PostgreSQL", "Redis", "SQLite"],
+            "tools": ["Docker", "Git", "Celery"],
         }
 
 me = PythonDeveloper()
@@ -53,38 +53,29 @@ me.say_hi()
 
 ---
 
-## 🐍 Python Technologies
+## 🐍 Python Texnologiyalar
 
 <div align="center">
 
-### 💻 Main Languages
+### 💻 Asosiy Tillar
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🏗️ Python Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄️ Database
+### 🗄️ Ma'lumotlar Bazasi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🤖 AI & Special Tech
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-### 🛠️ Tools & DevOps
+### 🛠️ Asboblar & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
 ### 🧪 Testing
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -93,7 +84,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistikalar
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarvarbek777&show_icons=true&count_private=true&hide_border=true&title_color=FFD43B&icon_color=FFD43B&text_color=c9d1d9&bg_color=0d1117" alt="Sarvarbek's GitHub stats" />
@@ -106,18 +97,18 @@ me.say_hi()
 
 ---
 
-## 🐍 My Python Projects
+## 🐍 Python Loyihalarim
 
 <div align="center">
 
-### 🔥 Main Projects
+### 🔥 Asosiy Loyihalar
 
-| Project | Technologies | Description |
+| Loyiha | Texnologiyalar | Tavsif |
 |--------|---------------|---------|
-| **Alijahon E-commerce** | Django + Redis + DRF | Platform with referral marketing and operator panel |
-| **Avto Makon** | FastAPI + JWT + Docker | Roadside assistance services and service search system |
-| **Prompt Bot (@Promtlar_uzbot)** | Aiogram + PM2 + GitHub | AI prompt optimization and admin panel |
-| **OCR Rehab AI** | PyTorch + EasyOCR | Medical data digitization system |
+| **E-commerce API** | Django + DRF + PostgreSQL | Onlayn do'kon uchun RESTful API |
+| **ML Price Predictor** | FastAPI
+| **Task Manager Bot** | Telegram Bot API + SQLite | Vazifalarni boshqarish bot |
+| **Web Scraper** | Scrapy + BeautifulSoup + Selenium | Ma'lumot yig'ish dasturi |
 
 </div>
 
@@ -130,19 +121,20 @@ me.say_hi()
 
 ---
 
-## 📚 Technologies I'm Learning
+## 📚 O'rganayotgan Texnologiyalar
 
 <div align="center">
+
 ```python
 learning_roadmap = {
-    "2025-2026": [
-        "🔥 Microservices with Python",
-        "🤖 Deep Learning & Computer Vision (OCR focus)"
+    "2024": [
+        "🔥 Advanced Django Patterns"
     ],
     "next_goals": [
-        "🎯 Build high-performance async systems",
-        "📝 Open Source contribution",
-        "👨‍🏫 Technical blogging"
+        "🎯 Contribute to Open Source Python projects",
+        "📝 Write technical blog posts",
+        "🏆 Get AWS Solutions Architect certification",
+        "👨‍🏫 Mentor junior Python developers"
     ]
 }
 ```
@@ -151,30 +143,40 @@ learning_roadmap = {
 
 ---
 
-## 💡 My Python Tips
+## 💡 Python Maslahatlarim
 
 <div align="center">
 
 | 🐍 Python Best Practices |
 |---------------------------|
-| • Follow **PEP 8** — code must be readable |
-| • Don't forget to use **Virtual Environment** |
-| • Add **Type Hints** — makes code understandable |
-| • Write **Docstrings** — documentation matters |
-| • Do **Testing** — improves code quality |
-| • Use **Git** properly — every commit should be meaningful |
+| • **PEP 8** ga rioya qiling - kod o'qilishi mumkin bo'lishi kerak |
+| • **Virtual Environment** ishlatishni unutmang |
+| • **Type Hints** qo'ying - kodni tushunarli qiladi |
+| • **Docstring** yozing - dokumentatsiya muhim |
+| • **Testing** qiling - kod sifatini oshiradi |
+| • **Git** dan to'g'ri foydalaning - har bir commit mazmunli bo'lsin |
 
 </div>
 
 ---
 
-## 🏆 My Achievements
+## 📝 Python Maqolalarim
+
+<!-- BLOG-POST-LIST:START -->
+- 🐍 [Django REST API: Professional Development Guide](https://your-blog.com/django-rest-api)
+- ⚡ [FastAPI vs Django: Performance Comparison](https://your-blog.com/fastapi-vs-django)
+- 🤖 [Building Telegram Bots with Python](https://your-blog.com/telegram-bot-python)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏆 Yutuqlarim
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-Advanced%20Level-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Production%20Ready-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -184,7 +186,7 @@ learning_roadmap = {
 
 ---
 
-## 🤝 Connect
+## 🤝 Bog'lanish
 
 <div align="center">
 
@@ -196,7 +198,7 @@ learning_roadmap = {
 
 ---
 
-## 💰 For Projects
+## 💰 Loyihalar uchun
 
 <div align="center">
 
@@ -213,5 +215,17 @@ learning_roadmap = {
 *"Python is not just a programming language, it's a way of thinking."*
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+**"Code is poetry, Python is shakespeare."** 🐍✨
+
+⭐️ **[Sarvarbek777](https://github.com/Sarvarbek777) tomonidan Python ❤️ bilan yaratilgan**
+
+*Python community ga xush kelibsiz! Keling, birga ajoyib narsalar yarataylik! 🚀*
 
 </div>
